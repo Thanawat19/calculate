@@ -10,7 +10,7 @@ public class CalculateGrade {
         this.score = score;
     }
     
-    public char calcuate() {
+    public char calculate() {
         char grade;
         
         if(score >= 80) {
